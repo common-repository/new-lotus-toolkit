@@ -1,0 +1,526 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: New Lotus Toolkit\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-15 11:47+0700\n"
+"PO-Revision-Date: 2015-09-15 11:47+0700\n"
+"Last-Translator: thanh4890 <thanh4890@gmail.com>\n"
+"Language-Team: Kopasoft\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/hook.php:64
+msgid "Follow us via "
+msgstr ""
+
+#: inc/widgets/intro/advertisement.php:13
+msgid "Show advertisement"
+msgstr ""
+
+#: inc/widgets/intro/advertisement.php:15
+msgid "(NewLotus) Advertisement"
+msgstr ""
+
+#: inc/widgets/intro/advertisement.php:21
+msgid "Upload Image"
+msgstr ""
+
+#: inc/widgets/intro/advertisement.php:26
+msgid "Image Title (Show when hover on the image)"
+msgstr ""
+
+#: inc/widgets/intro/advertisement.php:31
+msgid "Image Link"
+msgstr ""
+
+#: inc/widgets/intro/advertisement.php:36
+msgid "Open link in a new tab"
+msgstr ""
+
+#: inc/widgets/intro/feedburner.php:13
+msgid "Kopa newletter"
+msgstr ""
+
+#: inc/widgets/intro/feedburner.php:15
+msgid "(NewLotus) Newletter"
+msgstr ""
+
+#: inc/widgets/intro/feedburner.php:21
+msgid "Feedburner id"
+msgstr ""
+
+#: inc/widgets/intro/feedburner.php:25 inc/widgets/intro/feedburner.php:47
+msgid "Enter your email address ..."
+msgstr ""
+
+#: inc/widgets/intro/feedburner.php:26
+msgid "Placeholder"
+msgstr ""
+
+#: inc/widgets/intro/feedburner.php:30
+msgid "Subcribe"
+msgstr ""
+
+#: inc/widgets/intro/feedburner.php:31
+msgid "Text submit"
+msgstr ""
+
+#: inc/widgets/intro/feedburner.php:46
+msgid "Signup"
+msgstr ""
+
+#: inc/widgets/intro/flickr.php:13
+msgid "Kopa flickr"
+msgstr ""
+
+#: inc/widgets/intro/flickr.php:15
+msgid "(NewLotus) Flickr"
+msgstr ""
+
+#: inc/widgets/intro/flickr.php:20
+msgid "Photo on flickr"
+msgstr ""
+
+#: inc/widgets/intro/flickr.php:21
+#: inc/widgets/post/lightbox-list-post.php:66
+#: inc/widgets/post/list-post-syn-carousel.php:35
+#: inc/widgets/post/list-post-syn-carousel.php:66
+#: inc/widgets/post/list-post.php:66 inc/widgets/post/video-playlist.php:35
+#: inc/widgets/post/video-playlist.php:66
+msgid "Title"
+msgstr ""
+
+#: inc/widgets/intro/flickr.php:26
+msgid "Flickr id"
+msgstr ""
+
+#: inc/widgets/intro/flickr.php:30
+msgid "6"
+msgstr ""
+
+#: inc/widgets/intro/flickr.php:31
+msgid "Limit"
+msgstr ""
+
+#: inc/widgets/intro/flickr.php:44
+msgid "RECENT "
+msgstr ""
+
+#: inc/widgets/intro/social-link.php:13
+msgid "Show social link"
+msgstr ""
+
+#: inc/widgets/intro/social-link.php:15
+msgid "(NewLotus) Social link"
+msgstr ""
+
+#: inc/widgets/intro/social-link.php:21
+msgid "Social Network"
+msgstr ""
+
+#: inc/widgets/intro/social-link.php:26
+msgid "Description"
+msgstr ""
+
+#: inc/widgets/post/combo-list-post.php:13
+msgid "Display popular articles, recent articles and most comment articles"
+msgstr ""
+
+#: inc/widgets/post/combo-list-post.php:15
+msgid "(NewLotus) Accordions"
+msgstr ""
+
+#: inc/widgets/post/combo-list-post.php:20
+msgid "POPULAR"
+msgstr ""
+
+#: inc/widgets/post/combo-list-post.php:21
+msgid "Popular title"
+msgstr ""
+
+#: inc/widgets/post/combo-list-post.php:25
+msgid "COMMENT"
+msgstr ""
+
+#: inc/widgets/post/combo-list-post.php:26
+msgid "Comment title"
+msgstr ""
+
+#: inc/widgets/post/combo-list-post.php:30
+msgid "RECENT"
+msgstr ""
+
+#: inc/widgets/post/combo-list-post.php:31
+msgid "Latest title"
+msgstr ""
+
+#: inc/widgets/post/combo-list-post.php:36
+#: inc/widgets/post/lightbox-list-post.php:75
+#: inc/widgets/post/list-post-syn-carousel.php:75
+#: inc/widgets/post/list-post.php:75 inc/widgets/post/video-playlist.php:75
+msgid "Ordering"
+msgstr ""
+
+#: inc/widgets/post/combo-list-post.php:38
+#: inc/widgets/post/lightbox-list-post.php:77
+#: inc/widgets/post/list-post-syn-carousel.php:77
+#: inc/widgets/post/list-post.php:77 inc/widgets/post/video-playlist.php:77
+msgid "ASC"
+msgstr ""
+
+#: inc/widgets/post/combo-list-post.php:39
+#: inc/widgets/post/lightbox-list-post.php:78
+#: inc/widgets/post/list-post-syn-carousel.php:78
+#: inc/widgets/post/list-post.php:78 inc/widgets/post/video-playlist.php:78
+msgid "DESC"
+msgstr ""
+
+#: inc/widgets/post/combo-list-post.php:45
+#: inc/widgets/post/lightbox-list-post.php:84
+#: inc/widgets/post/list-post-syn-carousel.php:84
+#: inc/widgets/post/list-post.php:84 inc/widgets/post/video-playlist.php:84
+msgid "Number of posts"
+msgstr ""
+
+#: inc/widgets/post/combo-list-post.php:51
+#: inc/widgets/post/lightbox-list-post.php:90
+#: inc/widgets/post/list-post-syn-carousel.php:90
+#: inc/widgets/post/list-post.php:96 inc/widgets/post/video-playlist.php:90
+msgid "Timestamp (ago)"
+msgstr ""
+
+#: inc/widgets/post/combo-list-post.php:53
+#: inc/widgets/post/lightbox-list-post.php:92
+#: inc/widgets/post/list-post-syn-carousel.php:92
+#: inc/widgets/post/list-post.php:98 inc/widgets/post/video-playlist.php:92
+msgid "-- Select --"
+msgstr ""
+
+#: inc/widgets/post/combo-list-post.php:54
+#: inc/widgets/post/lightbox-list-post.php:93
+#: inc/widgets/post/list-post-syn-carousel.php:93
+#: inc/widgets/post/list-post.php:99 inc/widgets/post/video-playlist.php:93
+msgid "1 week"
+msgstr ""
+
+#: inc/widgets/post/combo-list-post.php:55
+#: inc/widgets/post/lightbox-list-post.php:94
+#: inc/widgets/post/list-post-syn-carousel.php:94
+#: inc/widgets/post/list-post.php:100 inc/widgets/post/video-playlist.php:94
+msgid "2 weeks"
+msgstr ""
+
+#: inc/widgets/post/combo-list-post.php:56
+#: inc/widgets/post/lightbox-list-post.php:95
+#: inc/widgets/post/list-post-syn-carousel.php:95
+#: inc/widgets/post/list-post.php:101 inc/widgets/post/video-playlist.php:95
+msgid "3 weeks"
+msgstr ""
+
+#: inc/widgets/post/combo-list-post.php:57
+#: inc/widgets/post/lightbox-list-post.php:96
+#: inc/widgets/post/list-post-syn-carousel.php:96
+#: inc/widgets/post/list-post.php:102 inc/widgets/post/video-playlist.php:96
+msgid "1 months"
+msgstr ""
+
+#: inc/widgets/post/combo-list-post.php:58
+#: inc/widgets/post/lightbox-list-post.php:97
+#: inc/widgets/post/list-post-syn-carousel.php:97
+#: inc/widgets/post/list-post.php:103 inc/widgets/post/video-playlist.php:97
+msgid "2 months"
+msgstr ""
+
+#: inc/widgets/post/combo-list-post.php:59
+#: inc/widgets/post/lightbox-list-post.php:98
+#: inc/widgets/post/list-post-syn-carousel.php:98
+#: inc/widgets/post/list-post.php:104 inc/widgets/post/video-playlist.php:98
+msgid "3 months"
+msgstr ""
+
+#: inc/widgets/post/combo-list-post.php:60
+#: inc/widgets/post/lightbox-list-post.php:99
+#: inc/widgets/post/list-post-syn-carousel.php:99
+#: inc/widgets/post/list-post.php:105 inc/widgets/post/video-playlist.php:99
+msgid "4 months"
+msgstr ""
+
+#: inc/widgets/post/combo-list-post.php:61
+#: inc/widgets/post/lightbox-list-post.php:100
+#: inc/widgets/post/list-post-syn-carousel.php:100
+#: inc/widgets/post/list-post.php:106
+#: inc/widgets/post/video-playlist.php:100
+msgid "5 months"
+msgstr ""
+
+#: inc/widgets/post/combo-list-post.php:62
+#: inc/widgets/post/lightbox-list-post.php:101
+#: inc/widgets/post/list-post-syn-carousel.php:101
+#: inc/widgets/post/list-post.php:107
+#: inc/widgets/post/video-playlist.php:101
+msgid "6 months"
+msgstr ""
+
+#: inc/widgets/post/combo-list-post.php:63
+#: inc/widgets/post/lightbox-list-post.php:102
+#: inc/widgets/post/list-post-syn-carousel.php:102
+#: inc/widgets/post/list-post.php:108
+#: inc/widgets/post/video-playlist.php:102
+msgid "7 months"
+msgstr ""
+
+#: inc/widgets/post/combo-list-post.php:64
+#: inc/widgets/post/lightbox-list-post.php:103
+#: inc/widgets/post/list-post-syn-carousel.php:103
+#: inc/widgets/post/list-post.php:109
+#: inc/widgets/post/video-playlist.php:103
+msgid "8 months"
+msgstr ""
+
+#: inc/widgets/post/combo-list-post.php:65
+#: inc/widgets/post/lightbox-list-post.php:104
+#: inc/widgets/post/list-post-syn-carousel.php:104
+#: inc/widgets/post/list-post.php:110
+#: inc/widgets/post/video-playlist.php:104
+msgid "9 months"
+msgstr ""
+
+#: inc/widgets/post/combo-list-post.php:66
+#: inc/widgets/post/lightbox-list-post.php:105
+#: inc/widgets/post/list-post-syn-carousel.php:105
+#: inc/widgets/post/list-post.php:111
+#: inc/widgets/post/video-playlist.php:105
+msgid "10 months"
+msgstr ""
+
+#: inc/widgets/post/combo-list-post.php:67
+#: inc/widgets/post/lightbox-list-post.php:106
+#: inc/widgets/post/list-post-syn-carousel.php:106
+#: inc/widgets/post/list-post.php:112
+#: inc/widgets/post/video-playlist.php:106
+msgid "11 months"
+msgstr ""
+
+#: inc/widgets/post/combo-list-post.php:68
+#: inc/widgets/post/lightbox-list-post.php:107
+#: inc/widgets/post/list-post-syn-carousel.php:107
+#: inc/widgets/post/list-post.php:113
+#: inc/widgets/post/video-playlist.php:107
+msgid "1 year"
+msgstr ""
+
+#: inc/widgets/post/combo-list-post.php:69
+#: inc/widgets/post/lightbox-list-post.php:108
+#: inc/widgets/post/list-post-syn-carousel.php:108
+#: inc/widgets/post/list-post.php:114
+#: inc/widgets/post/video-playlist.php:108
+msgid "2 years"
+msgstr ""
+
+#: inc/widgets/post/combo-list-post.php:70
+#: inc/widgets/post/lightbox-list-post.php:109
+#: inc/widgets/post/list-post-syn-carousel.php:109
+#: inc/widgets/post/list-post.php:115
+#: inc/widgets/post/video-playlist.php:109
+msgid "3 years"
+msgstr ""
+
+#: inc/widgets/post/combo-list-post.php:71
+#: inc/widgets/post/lightbox-list-post.php:110
+#: inc/widgets/post/list-post-syn-carousel.php:110
+#: inc/widgets/post/list-post.php:116
+#: inc/widgets/post/video-playlist.php:110
+msgid "4 years"
+msgstr ""
+
+#: inc/widgets/post/combo-list-post.php:72
+#: inc/widgets/post/lightbox-list-post.php:111
+#: inc/widgets/post/list-post-syn-carousel.php:111
+#: inc/widgets/post/list-post.php:117
+#: inc/widgets/post/video-playlist.php:111
+msgid "5 years"
+msgstr ""
+
+#: inc/widgets/post/combo-list-post.php:73
+#: inc/widgets/post/lightbox-list-post.php:112
+#: inc/widgets/post/list-post-syn-carousel.php:112
+#: inc/widgets/post/list-post.php:118
+#: inc/widgets/post/video-playlist.php:112
+msgid "6 years"
+msgstr ""
+
+#: inc/widgets/post/combo-list-post.php:74
+#: inc/widgets/post/lightbox-list-post.php:113
+#: inc/widgets/post/list-post-syn-carousel.php:113
+#: inc/widgets/post/list-post.php:119
+#: inc/widgets/post/video-playlist.php:113
+msgid "7 years"
+msgstr ""
+
+#: inc/widgets/post/combo-list-post.php:75
+#: inc/widgets/post/lightbox-list-post.php:114
+#: inc/widgets/post/list-post-syn-carousel.php:114
+#: inc/widgets/post/list-post.php:120
+#: inc/widgets/post/video-playlist.php:114
+msgid "8 years"
+msgstr ""
+
+#: inc/widgets/post/combo-list-post.php:76
+#: inc/widgets/post/lightbox-list-post.php:115
+#: inc/widgets/post/list-post-syn-carousel.php:115
+#: inc/widgets/post/list-post.php:121
+#: inc/widgets/post/video-playlist.php:115
+msgid "9 years"
+msgstr ""
+
+#: inc/widgets/post/combo-list-post.php:77
+#: inc/widgets/post/lightbox-list-post.php:116
+#: inc/widgets/post/list-post-syn-carousel.php:116
+#: inc/widgets/post/list-post.php:122
+#: inc/widgets/post/video-playlist.php:116
+msgid "10 years"
+msgstr ""
+
+#: inc/widgets/post/lightbox-list-post.php:13
+msgid "Kopa Lightbox Galleries"
+msgstr ""
+
+#: inc/widgets/post/lightbox-list-post.php:15
+msgid "(NewLotus) Lightbox Galleries"
+msgstr ""
+
+#: inc/widgets/post/lightbox-list-post.php:19
+#: inc/widgets/post/list-post-syn-carousel.php:19
+#: inc/widgets/post/list-post.php:19 inc/widgets/post/video-playlist.php:19
+msgid "---Select categories---"
+msgstr ""
+
+#: inc/widgets/post/lightbox-list-post.php:26
+#: inc/widgets/post/list-post-syn-carousel.php:26
+#: inc/widgets/post/list-post.php:26 inc/widgets/post/video-playlist.php:26
+msgid "---Select tags---"
+msgstr ""
+
+#: inc/widgets/post/lightbox-list-post.php:34
+#: inc/widgets/post/lightbox-list-post.php:35
+msgid "Gallery posts"
+msgstr ""
+
+#: inc/widgets/post/lightbox-list-post.php:40
+#: inc/widgets/post/list-post-syn-carousel.php:40
+#: inc/widgets/post/list-post.php:40 inc/widgets/post/video-playlist.php:40
+msgid "Categories"
+msgstr ""
+
+#: inc/widgets/post/lightbox-list-post.php:46
+#: inc/widgets/post/list-post-syn-carousel.php:46
+#: inc/widgets/post/list-post.php:46 inc/widgets/post/video-playlist.php:46
+msgid "Relation"
+msgstr ""
+
+#: inc/widgets/post/lightbox-list-post.php:49
+#: inc/widgets/post/list-post-syn-carousel.php:49
+#: inc/widgets/post/list-post.php:49 inc/widgets/post/video-playlist.php:49
+msgid "AND"
+msgstr ""
+
+#: inc/widgets/post/lightbox-list-post.php:50
+#: inc/widgets/post/list-post-syn-carousel.php:50
+#: inc/widgets/post/list-post.php:50 inc/widgets/post/video-playlist.php:50
+msgid "OR"
+msgstr ""
+
+#: inc/widgets/post/lightbox-list-post.php:56
+#: inc/widgets/post/list-post-syn-carousel.php:56
+#: inc/widgets/post/list-post.php:56 inc/widgets/post/video-playlist.php:56
+msgid "Tags"
+msgstr ""
+
+#: inc/widgets/post/lightbox-list-post.php:63
+#: inc/widgets/post/list-post-syn-carousel.php:63
+#: inc/widgets/post/list-post.php:63 inc/widgets/post/video-playlist.php:63
+msgid "Order by"
+msgstr ""
+
+#: inc/widgets/post/lightbox-list-post.php:65
+#: inc/widgets/post/list-post-syn-carousel.php:65
+#: inc/widgets/post/list-post.php:65 inc/widgets/post/video-playlist.php:65
+msgid "Post id"
+msgstr ""
+
+#: inc/widgets/post/lightbox-list-post.php:67
+#: inc/widgets/post/list-post-syn-carousel.php:67
+#: inc/widgets/post/list-post.php:67 inc/widgets/post/video-playlist.php:67
+msgid "Date"
+msgstr ""
+
+#: inc/widgets/post/lightbox-list-post.php:68
+#: inc/widgets/post/list-post-syn-carousel.php:68
+#: inc/widgets/post/list-post.php:68 inc/widgets/post/video-playlist.php:68
+msgid "Random"
+msgstr ""
+
+#: inc/widgets/post/lightbox-list-post.php:69
+#: inc/widgets/post/list-post-syn-carousel.php:69
+#: inc/widgets/post/list-post.php:69 inc/widgets/post/video-playlist.php:69
+msgid "Number of comments"
+msgstr ""
+
+#: inc/widgets/post/list-post-syn-carousel.php:13
+msgid "Display Sync Carousel"
+msgstr ""
+
+#: inc/widgets/post/list-post-syn-carousel.php:15
+msgid "(NewLotus) Sync Carousel"
+msgstr ""
+
+#: inc/widgets/post/list-post.php:13
+msgid "Kopa Article List"
+msgstr ""
+
+#: inc/widgets/post/list-post.php:15
+msgid "(NewLotus) Article List"
+msgstr ""
+
+#: inc/widgets/post/list-post.php:34 inc/widgets/post/list-post.php:35
+msgid "Life style"
+msgstr ""
+
+#: inc/widgets/post/list-post.php:90
+msgid "Exerpt of posts"
+msgstr ""
+
+#: inc/widgets/post/list-post.php:170
+msgid "No comment"
+msgstr ""
+
+#: inc/widgets/post/list-post.php:170
+msgid "1 comment"
+msgstr ""
+
+#: inc/widgets/post/list-post.php:170
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: inc/widgets/post/list-post.php:178
+msgid "read more"
+msgstr ""
+
+#: inc/widgets/post/video-playlist.php:13
+msgid "Display videos playlist"
+msgstr ""
+
+#: inc/widgets/post/video-playlist.php:15
+msgid "(NewLotus) Video Playlist"
+msgstr ""
